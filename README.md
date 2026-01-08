@@ -6,7 +6,7 @@
   y el stack tecnológico con el que trabajo actualmente.
 </p>
 
-<p align="center"> Estudiante de Ingeniería de Sistemas, con enfoque en desarrollo de software, experiencia en el diseño e implementación de servicios para aplicaciones web, desarrollo de interfaces, manejo de bases de datos relacionales y control de versiones con Git. Capacidad para trabajar en entornos colaborativos y traducir requerimientos funcionales en soluciones técnicas eficientes.
+<p align="center">Soy Estudiante de Ingeniería de Sistemas, con enfoque en desarrollo de software, experiencia en el diseño e implementación de servicios para aplicaciones web, desarrollo de interfaces, manejo de bases de datos relacionales y control de versiones con Git. Tengo capacidad para trabajar en entornos colaborativos y traducir requerimientos funcionales en soluciones técnicas eficientes.
 
 
 🚀 Me apasiona convertir ideas en productos reales, comprender el problema detrás del código y construir software que genere impacto.
@@ -97,7 +97,7 @@
 </p>
 <h3 align="center">Redes Sociales</h3>
 <p align="center">
-  <a href="https://www.instagram.com/wwwww">
+  <a href="https://www.instagram.com/ariannamorav?igsh=bjJ4OTU3cDJ3ODhh">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
