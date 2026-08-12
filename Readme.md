@@ -13,9 +13,8 @@
 <br>
 
 <div align="center">
-
+  
 # Arianna Mora Villarreal
-
 **Ingeniería de Sistemas | Backend · Redes · Explorando DevOps**
 
 <a href="mailto:ariannamora.tech@gmail.com">
@@ -25,8 +24,6 @@
 </div>
 
 ---
-
-## Sobre mí
 
 Soy estudiante de Ingeniería de Sistemas en el Politécnico Grancolombiano, con interés principalmente en el desarrollo **Backend**, las **redes de datos** y las tecnologías relacionadas con **DevOps**.
 
@@ -97,17 +94,6 @@ Sistema web para la gestión integral de TurboCajas, actualmente en desarrollo.
 REST API desarrollada con FastAPI y PostgreSQL para la gestión de usuarios mediante operaciones CRUD.
 
 Implementa validación con Pydantic, comunicación con PostgreSQL mediante Psycopg, variables de entorno, documentación automática con Swagger/OpenAPI y ejecución mediante Uvicorn.
-
-**Características**
-
-* Operaciones CRUD
-* Validación con Pydantic
-* PostgreSQL
-* Psycopg
-* Variables de entorno
-* Swagger/OpenAPI
-* Uvicorn
-* Ramas `main` y `develop`
 
 **Tecnologías**
 
@@ -199,7 +185,6 @@ Algunos de los conceptos que he trabajado incluyen:
 * EtherChannel
 * LACP
 * Balanceo de carga
-* Cisco IOS
 * GNS3
 * Wireshark
 * iPerf3
@@ -208,26 +193,11 @@ Esta área me interesa especialmente porque permite comprender cómo se comunica
 
 ---
 
-# Objetivos
-
-A corto y mediano plazo quiero continuar fortaleciendo mis conocimientos en **Backend, Redes y DevOps**, mientras desarrollo proyectos que me permitan aplicar estos conocimientos de forma práctica.
-
-También busco una primera experiencia profesional que me permita trabajar en equipo, aprender de otros desarrolladores y profesionales del área, y aportar desde los conocimientos que he adquirido durante mi formación.
-
----
-
 # Contacto
 
 Si quieres conocer más sobre mí, mis proyectos o mi proceso de aprendizaje, puedes encontrarme en los siguientes perfiles:
 
 <div align="center">
-
-<a href="mailto:ariannamora.tech@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  >
-</a>
 
 <a href="https://www.linkedin.com/in/arianna-mora-117723377/">
   <img
