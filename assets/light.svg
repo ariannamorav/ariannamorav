@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610"
+     role="img" aria-labelledby="title desc">
+<title id="title">Arianna Mora | Backend, Networks and DevOps</title>
+<desc id="desc">Premium animated developer profile banner for Arianna Mora, ed on backend development, computer networks and DevOps.</desc>
+<defs>
+<linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#2563EB"/><stop offset="50%" stop-color="#06B6D4"/><stop offset="100%" stop-color="#10B981"/>
+<animate attributeName="x1" values="0%;30%;-10%;0%" dur="10s" repeatCount="indefinite"/>
+<animate attributeName="x2" values="100%;70%;110%;100%" dur="10s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="ascii" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#2563EB"/><stop offset="50%" stop-color="#06B6D4"/><stop offset="100%" stop-color="#10B981"/>
+<animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+<animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+</linearGradient>
+<radialGradient id="g1"><stop offset="0%" stop-color="#06B6D4" stop-opacity=".18"/><stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0%" stop-color="#2563EB" stop-opacity=".14"/><stop offset="100%" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="rgba(15,23,42,.035)" stroke-width="1"/></pattern>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="rgba(15,23,42,.14)" flood-opacity=".55"/></filter>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="frame"><rect width="1180" height="610" rx="28"/></clipPath>
+<style>
+.mono{font-family:"SFMono-Regular","Cascadia Code","Roboto Mono","Fira Code",Consolas,monospace}
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Arial,sans-serif}
+.text{fill:#0F172A}.muted{fill:#475569}
+.role{font-family:"SFMono-Regular","Cascadia Code","Roboto Mono",Consolas,monospace;fill:#06B6D4;font-size:16px;font-weight:700;letter-spacing:1px}
+.fade{opacity:0;animation:fade .55s ease forwards}
+.f1{animation-delay:1.7s}.f2{animation-delay:1.95s}.f3{animation-delay:2.2s}.f4{animation-delay:2.45s}.f5{animation-delay:2.7s}
+.skill{opacity:0;animation:skill .5s ease forwards}
+.s1{animation-delay:3.35s}.s2{animation-delay:3.48s}.s3{animation-delay:3.61s}.s4{animation-delay:3.74s}
+.s5{animation-delay:3.87s}.s6{animation-delay:4s}.s7{animation-delay:4.13s}.s8{animation-delay:4.26s}
+.float{animation:float 5s ease-in-out infinite}.blink{animation:blink 1s steps(2,end) infinite}
+.scan{animation:scan 4s linear infinite}.shimmer{animation:shimmer 3.2s ease-in-out infinite}
+@keyframes fade{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+@keyframes skill{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}
+@keyframes scan{from{transform:translateY(-235px);opacity:0}18%{opacity:.18}78%{opacity:.18}to{transform:translateY(235px);opacity:0}}
+@keyframes shimmer{0%,100%{opacity:.18}50%{opacity:.65}}
+</style>
+</defs>
+
+<g clip-path="url(#frame)">
+<rect width="1180" height="610" fill="#FFFFFF"/><rect width="1180" height="610" fill="url(#grid)"/>
+<circle cx="100" cy="90" r="240" fill="url(#g1)"/><circle cx="1050" cy="520" r="270" fill="url(#g2)"/>
+<rect x="18" y="18" width="1144" height="574" rx="24" fill="none" stroke="rgba(15,23,42,.10)"/>
+<path d="M45 18H330" stroke="url(#accent)" stroke-width="2"/><path d="M850 592H1135" stroke="url(#accent)" stroke-width="2" opacity=".6"/>
+
+<!-- LEFT -->
+<g transform="translate(48,62)">
+<text class="mono muted" x="0" y="0" font-size="11" letter-spacing="1.2">PROFILE / TERMINAL</text>
+<circle cx="165" cy="-4" r="3.5" fill="#10B981" filter="url(#glow)"/>
+<g transform="translate(0,58)" class="float">
+<text class="mono" x="0" y="34" font-size="29" font-weight="700" fill="url(#ascii)">        .-''''-.</text>
+<text class="mono" x="0" y="70" font-size="29" font-weight="700" fill="url(#ascii)">      .'  .--.  '.</text>
+<text class="mono" x="0" y="106" font-size="29" font-weight="700" fill="url(#ascii)">     /   /  \   \</text>
+<text class="mono" x="0" y="142" font-size="29" font-weight="700" fill="url(#ascii)">    |   | 0  0 |   |</text>
+<text class="mono" x="0" y="178" font-size="29" font-weight="700" fill="url(#ascii)">    |   |  --  |   |</text>
+<text class="mono" x="0" y="214" font-size="29" font-weight="700" fill="url(#ascii)">     \   \__/   /</text>
+<text class="mono" x="0" y="250" font-size="29" font-weight="700" fill="url(#ascii)">      '._.__._.'</text>
+<rect x="-15" y="-25" width="395" height="2" fill="url(#accent)" class="scan"/>
+</g>
+<text class="sans text" x="0" y="360" font-size="28" font-weight="700">Arianna Mora</text>
+<text class="mono" x="0" y="389" font-size="14" fill="url(#accent)">BACKEND  /  NETWORKS  /  DEVOPS</text>
+<text class="sans muted" x="0" y="418" font-size="12">Systems Engineering · Politécnico Grancolombiano</text>
+<rect x="0" y="445" width="320" height="1" fill="rgba(15,23,42,.10)"/>
+<text class="mono muted" x="0" y="472" font-size="10" letter-spacing="1.3">CURRENTLY BUILDING AND LEARNING</text>
+<circle cx="5" cy="493" r="3.5" fill="#10B981" filter="url(#glow)"/>
+<text class="sans muted" x="18" y="497" font-size="12">APIs · databases · networks · containers</text>
+</g>
+
+<rect x="426" y="62" width="1" height="486" fill="rgba(15,23,42,.10)"/><rect x="426" y="115" width="1" height="100" fill="url(#accent)" opacity=".7"/>
+
+<!-- RIGHT -->
+<g transform="translate(456,52)" filter="url(#shadow)">
+<rect width="680" height="506" rx="18" fill="#F8FAFC" stroke="rgba(15,23,42,.10)"/>
+<rect width="680" height="48" rx="18" fill="#FFFFFF" stroke="rgba(15,23,42,.10)"/><rect y="30" width="680" height="18" fill="#FFFFFF"/>
+<circle cx="24" cy="24" r="5" fill="#2563EB"/><circle cx="42" cy="24" r="5" fill="#06B6D4"/><circle cx="60" cy="24" r="5" fill="#10B981"/>
+<text class="mono muted" x="92" y="28" font-size="11">arianna@dev: ~/profile</text>
+
+<g transform="translate(30,78)">
+<text class="mono" x="0" y="0" font-size="13" fill="#06B6D4">$ whoami</text>
+<text class="sans text" x="0" y="36" font-size="28" font-weight="700">Arianna Mora</text>
+<rect x="205" y="17" width="8" height="20" fill="#06B6D4" class="blink"/>
+
+<text class="mono muted" x="0" y="75" font-size="11" letter-spacing="1">FOCUS</text>
+<text class="mono" x="58" y="75" font-size="16" font-weight="700" letter-spacing=".8" fill="url(#accent)">BACKEND  ·  NETWORKS  ·  DEVOPS</text>
+<rect x="58" y="82" width="2" height="15" fill="url(#accent)" class="blink"/>
+<g transform="translate(0,120)">
+<g class="fade f1"><text class="mono" x="0" y="0" font-size="11" fill="#06B6D4">01</text><text class="sans muted" x="32" y="0" font-size="11">LOCATION</text><text class="sans text" x="132" y="0" font-size="13">Medellín, Colombia</text></g>
+<g class="fade f2"><text class="mono" x="0" y="30" font-size="11" fill="#06B6D4">02</text><text class="sans muted" x="32" y="30" font-size="11">EDUCATION</text><text class="sans text" x="132" y="30" font-size="13">Ingeniería de Sistemas</text></g>
+<g class="fade f4"><text class="mono" x="0" y="90" font-size="11" fill="#06B6D4">03</text><text class="sans muted" x="32" y="90" font-size="11">PORTFOLIO</text><text class="sans text" x="132" y="90" font-size="13">GitHub · Arianna Mora</text></g>
+<g class="fade f5"><text class="mono" x="0" y="120" font-size="11" fill="#06B6D4">04</text><text class="sans muted" x="32" y="120" font-size="11">EMAIL</text><text class="sans text" x="132" y="120" font-size="13">ariannamora.tech@gmail.com</text></g>
+</g>
+
+<g transform="translate(0,270)">
+<text class="mono" x="0" y="0" font-size="12" fill="#06B6D4">~/stack</text>
+<text class="sans muted" x="70" y="0" font-size="11">TECHNOLOGIES</text>
+
+<g class="skill s1"><rect x="0" y="20" width="82" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="41" y="40" text-anchor="middle" font-size="12">Python</text></g>
+<g class="skill s2"><rect x="92" y="20" width="88" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="136" y="40" text-anchor="middle" font-size="12">FastAPI</text></g>
+<g class="skill s3"><rect x="190" y="20" width="106" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="243" y="40" text-anchor="middle" font-size="12">PostgreSQL</text></g>
+<g class="skill s4"><rect x="306" y="20" width="82" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="347" y="40" text-anchor="middle" font-size="12">TiDB</text></g>
+<g class="skill s5"><rect x="398" y="20" width="76" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="436" y="40" text-anchor="middle" font-size="12">MySQL</text></g>
+
+<g class="skill s6"><rect x="0" y="60" width="82" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="41" y="80" text-anchor="middle" font-size="12">Docker</text></g>
+<g class="skill s7"><rect x="92" y="60" width="76" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="130" y="80" text-anchor="middle" font-size="12">Cisco</text></g>
+<g class="skill s8"><rect x="178" y="60" width="76" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="216" y="80" text-anchor="middle" font-size="12">GNS3</text></g>
+<g class="skill s8"><rect x="264" y="60" width="102" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="315" y="80" text-anchor="middle" font-size="12">Wireshark</text></g>
+<g class="skill s8"><rect x="376" y="60" width="70" height="30" rx="15" fill="rgba(37,99,235,.07)" stroke="rgba(15,23,42,.035)"/><text class="mono text" x="411" y="80" text-anchor="middle" font-size="12">Git</text></g>
+</g>
+<g transform="translate(0,420)">
+<rect width="620" height="1" fill="rgba(15,23,42,.10)"/><text class="mono muted" x="0" y="25" font-size="11">$ git status</text>
+<text class="mono" x="105" y="25" font-size="11" fill="#10B981">learning &amp;&amp; building</text>
+<text class="mono" x="0" y="47" font-size="11" fill="#06B6D4">$</text><rect x="15" y="35" width="7" height="15" fill="#06B6D4" class="blink"/>
+</g></g>
+<rect x="1" y="1" width="678" height="504" rx="17" fill="none" stroke="url(#accent)" stroke-width="1" stroke-dasharray="20 470" class="shimmer"/>
+</g>
+
+<text class="mono muted" x="48" y="581" font-size="10" letter-spacing=".8">BACKEND · NETWORKS · DEVOPS · SYSTEMS ENGINEERING</text>
+<text class="mono muted" x="1134" y="581" text-anchor="end" font-size="10">2026</text>
+</g></svg>
