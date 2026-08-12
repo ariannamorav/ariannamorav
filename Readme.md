@@ -9,12 +9,10 @@
     >
   </picture>
 </p>
-
-<br>
-
 <div align="center">
-  
+
 # Arianna Mora Villarreal
+
 **Ingeniería de Sistemas | Backend · Redes · Explorando DevOps**
 
 <a href="mailto:ariannamora.tech@gmail.com">
@@ -24,6 +22,7 @@
 </div>
 
 ---
+<br>
 
 Soy estudiante de Ingeniería de Sistemas en el Politécnico Grancolombiano, con interés principalmente en el desarrollo **Backend**, las **redes de datos** y las tecnologías relacionadas con **DevOps**.
 
@@ -75,10 +74,6 @@ Sistema web para la gestión integral de TurboCajas, actualmente en desarrollo.
 * Facturación
 * Dashboard
 
-**Tecnologías**
-
-`Python` `FastAPI` `TypeScript` `React` `Bootstrap` `TiDB`
-
 <br>
 
 <a href="https://github.com/ariannamorav/TurboAdmin">
@@ -95,10 +90,6 @@ REST API desarrollada con FastAPI y PostgreSQL para la gestión de usuarios medi
 
 Implementa validación con Pydantic, comunicación con PostgreSQL mediante Psycopg, variables de entorno, documentación automática con Swagger/OpenAPI y ejecución mediante Uvicorn.
 
-**Tecnologías**
-
-`Python` `FastAPI` `PostgreSQL` `Psycopg` `Pydantic` `Uvicorn` `python-dotenv`
-
 <br>
 
 <a href="https://github.com/ariannamorav/fastapi-postgresql-crud-api">
@@ -112,10 +103,6 @@ Implementa validación con Pydantic, comunicación con PostgreSQL mediante Psyco
 ### Sistema de Gestión Hospitalario
 
 Proyecto académico desarrollado en Java y MySQL, orientado a la aplicación de conceptos de programación y fundamentos de bases de datos.
-
-**Tecnologías**
-
-`Java` `MySQL` `XAMPP` `NetBeans`
 
 <br><br>
 
@@ -178,16 +165,7 @@ Durante mi formación he realizado laboratorios utilizando GNS3, Cisco y máquin
 
 Algunos de los conceptos que he trabajado incluyen:
 
-* TCP/IP
-* Switching
-* Routing
-* VLAN
-* EtherChannel
-* LACP
-* Balanceo de carga
-* GNS3
-* Wireshark
-* iPerf3
+`TCP/IP` `Switching` `Routing` `VLAN` `EtherChannel` `LACP` `Balanceo de carga` `Cisco IOS` `GNS3` `Wireshark` `iPerf3`
 
 Esta área me interesa especialmente porque permite comprender cómo se comunican las aplicaciones y cómo interactúan el software, las redes y la infraestructura.
 
